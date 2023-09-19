@@ -1,4 +1,3 @@
-//Bhuvan Sakhamuru, 6th Hour, Cohort C
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
